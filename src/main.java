@@ -33,10 +33,10 @@ public class main {
                     studentManager.remove();
                     break;
                 case 4:
-                    studentManager.showAllStudent();break;
+                    studentManager.showAllStudent();
+                    break;
             }
-        }while(choice!=5);
-       
-    
+        } while (choice != 5);
+
     }
 }
